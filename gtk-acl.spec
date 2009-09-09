@@ -1,6 +1,6 @@
 Name: 		gtk-acl
 Version:	0.1.90
-Release:	%mkrel 7
+Release:	%mkrel 8
 Summary:	A GTK front end to manage ACL permissions on files
 Group:		File tools
 URL:		http://savannah.nongnu.org/projects/gtk-acl/
