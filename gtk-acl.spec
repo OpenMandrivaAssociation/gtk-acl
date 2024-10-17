@@ -3,7 +3,7 @@ Version:	0.1.90
 Release:	%mkrel 8
 Summary:	A GTK front end to manage ACL permissions on files
 Group:		File tools
-URL:		http://savannah.nongnu.org/projects/gtk-acl/
+URL:		https://savannah.nongnu.org/projects/gtk-acl/
 Source:		http://savannah.nongnu.org/download/%{name}/%{name}-%{version}.tar.bz2
 Source1:        %{name}.desktop
 License:	GPL
