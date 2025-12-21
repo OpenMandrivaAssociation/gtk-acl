@@ -8,6 +8,11 @@ Source:		http://savannah.nongnu.org/download/%{name}/%{name}-%{version}.tar.bz2
 Source1:        %{name}.desktop
 License:	GPL
 Buildroot:	%{_tmppath}/%{name}-%{version}-root
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 Buildrequires:	acl-devel 
 Buildrequires:  gtk+-devel
 Buildrequires:  libglade2.0-devel
